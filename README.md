@@ -6,10 +6,6 @@
 
 ![inpreview](https://github.com/UseInterstellar/Interstellar/assets/89202835/2669efed-5186-4932-83c4-725acae60bd2)
 
-> [!IMPORTANT]
-> If you fork this project, consider giving it a star in the original repository!
-
-**Join Our [Discord Community](https://discord.gg/interstellar) for support, more links, and an active community!**
 
 ## Features
 
@@ -93,10 +89,6 @@ git pull --force --allow-unrelated-histories # This may overwrite your local cha
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/UseInterstellar/Interstellar"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/UseInterstellar/Interstellar"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
-### Deployment Alternatives
-
-For more deployment options, join our [Discord Server](https://discord.gg/interstellar) for various ways to deploy Interstellar.
-This includes methods of deploying to Render/OnRender.
 
 #### What happened to Replit Deployment?
 
@@ -131,10 +123,9 @@ As of January 1st, 2024, Replit is [no longer free](https://blog.replit.com/host
 
 If you encounter problems, open an issue on GitHub, and we'll address it promptly.
 
-> [!TIP]
-> If you're having trouble, don't hesitate to reach out to us on [Discord](https://discord.gg/interstellar) for personalized support.
 
 # Credits
+# Owner: SynthX
 
 A huge thanks goes out to all of the people who have contributed to Interstellar.
 
